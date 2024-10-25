@@ -8,7 +8,7 @@ import {
   getManagedRestaurant,
   GetManagedRestaurantResponse,
 } from '@/api/get-managed-restaurant'
-import { updateProfile } from '@/api/update-profile'
+import { updateProfile } from '@/api/order/profile/update-profile'
 
 import { Button } from './ui/button'
 import {
